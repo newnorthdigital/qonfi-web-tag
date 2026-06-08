@@ -1,5 +1,7 @@
 homepage: "https://getqonfi.com"
 documentation: "https://github.com/newnorthdigital/qonfi-web-tag/blob/main/README.md"
 versions:
+  - sha: c14fb950a0eadcbd497660dc927229dee6b0f92f
+    changeNotes: "Rename displayName to 'Qonfi Wizard by New North Digital' per Gallery third-party naming rule (tag name by company)."
   - sha: a28311be397a2182c7a7369cf855a2f515586e7d
     changeNotes: "Initial release - Qonfi guided selling widget script loader."
